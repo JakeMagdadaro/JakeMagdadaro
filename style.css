@@ -20,7 +20,7 @@ body {
 }
 
 .nav-wrapper > .left-side > div {
-    margin-right: 15px;
+    margin-right: 50px;
     font-size: 1em;
     text-transform: uppercase;
 }
@@ -46,3 +46,12 @@ body {
     color: black;
 }
 
+/* About Page */
+.profile-image-wrapper img {
+    width: 25%;
+}
+
+/* Portfolio Styles */
+.profile-image-wrapper img {
+    width: 25%;
+}
